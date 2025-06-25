@@ -119,7 +119,7 @@ local function WebhookSend(Type: string, Fields: table)
 				color = Color,
 				fields = Fields,
 				footer = {
-					text = "Created by depso" -- Please keep
+					text = "Magik's Bot" -- Please keep
 				},
 				timestamp = TimeStamp
 			}
